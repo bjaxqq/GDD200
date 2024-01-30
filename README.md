@@ -10,4 +10,4 @@ For this class, we primarily worked in Unity with C#.
 
 ### Portfolio Website
 
-The only file provided on this repository is `index.html`, and this is because our first task was to create a basic [portfolio website](https://mywebspace.quinnipiac.edu/bajackson1/200/index.html) to publish our assignments. If you go to the file, you will be directed to the website where you can see the individual assignments and final project.
+The only file provided on this repository is `index.html`, and this is because our first task was to create a basic [portfolio website](https://mywebspace.quinnipiac.edu/bajackson1/200/index.html) to publish our assignments. If you go to this link, you will be directed to the website where you can see the individual assignments and final project.
